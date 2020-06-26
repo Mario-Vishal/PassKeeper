@@ -1,7 +1,7 @@
 import sqlite3
 from user import *
 
-conn = sqlite3.connect('credentials.db')
+conn = sqlite3.connect('.credentials.db')
 c= conn.cursor()
 
 #################################### THE LOGIN/REGISTER PAGE ####################################    
