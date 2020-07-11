@@ -10,4 +10,6 @@ A password keeper -version 1 python app which uses databases to store passwords 
 - The data added cannot be deleted.
 - No graphical Interface
 
-### Version 2 with GUI coming soon......
+### Version 2 
+
+https://github.com/Mario-Vishal/Passkeeper-GUI-Version
